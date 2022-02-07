@@ -1,6 +1,9 @@
 # **SPOTIFY DISCOGRAPHY** 
 
 Seriously, all thanks to [Spotify Web API docs](https://developer.spotify.com/documentation/web-api/)
+## DEMO
+
+https://user-images.githubusercontent.com/95216160/152760685-53dfed53-c4e8-4693-b0b6-2749322418c3.mp4
 
 ## Choose OAuth-Flow
 
