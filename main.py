@@ -4,8 +4,8 @@ import base64
 from tqdm import tqdm
 import time
 import shutil
-# ---------------------------------- client credentials retrieving for .env ----------------------------------
 
+# ---------------------------------- client credentials retrieving for .env ----------------------------------
 client_id = config('CLIENT_ID')
 client_secret = config('CLIENT_SECRET')
 b64_auth_str = base64.urlsafe_b64encode((client_id +':'+ client_secret).encode()).decode() # Base64 encoded string for authorization header parameter
